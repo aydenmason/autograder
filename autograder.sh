@@ -1,6 +1,5 @@
-#Ayden Mason Leopold 11 AM PLT
-
 #!/bin/bash
+
 [ -e results.txt ] && rm results.txt
 touch test.txt
 if [ ! -d "./submissions" ]
